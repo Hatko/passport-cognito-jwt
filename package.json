@@ -5,7 +5,7 @@
   "main": "./lib",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Hatko/passport-cognito-jwt.git"
+    "url": "git+https://github.com/Hatko/passport-cognito-jwt.git"
   },
   "keywords": [
     "Passport",
@@ -27,5 +27,8 @@
   },
   "dependencies": {
     "passport-strategy": "^1.0.0"
+  },
+  "directories": {
+    "lib": "lib"
   }
 }
