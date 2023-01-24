@@ -1,8 +1,8 @@
 {
   "name": "passport-cognito-jwt",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Passport authentication strategy for Cognito JWT token",
-  "main": "./lib",
+  "main": "./dist/index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Hatko/passport-cognito-jwt.git"
