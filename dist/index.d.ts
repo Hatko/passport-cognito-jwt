@@ -1,3 +1,2 @@
-import Strategy = require("./strategy");
-import ExtractJwt = require("./extract_jwt.js");
-export { Strategy, ExtractJwt };
+import { CognitoJwtStrategy } from './strategy';
+export { CognitoJwtStrategy };
